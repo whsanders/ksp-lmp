@@ -6,3 +6,8 @@ services:
     image: ksp_lmp_server
     ports:
       - 8800:8800/udp
+    volumes:
+      - ./data/Config:/LMPServer/Config
+      - ./data/Plugins:/LMPServer/Plugins
+      - ./data/Universe:/LMPServer/Universe
+      - ./data/logs:/LMPServer/logs

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<InterpolationSettingsDefinition xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!--Force clients to have the interpolation offset specified below-->
+  <ForceInterpolationOffset>false</ForceInterpolationOffset>
+  <!--The interpolation offset in milliseconds to force the clients to have-->
+  <InterpolationOffsetMs>1500</InterpolationOffsetMs>
+  <!--Force clients to have interpolation on/off-->
+  <ForceInterpolation>false</ForceInterpolation>
+  <!--The interpolation value to force the clients to have-->
+  <InterpolationValue>true</InterpolationValue>
+</InterpolationSettingsDefinition>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-16"?>
 <WarpSettingsDefinition xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <!--Specify the warp Type. Values: None, Subspace, Master-->
+  <!--Specify the warp Type. Values: None, Subspace-->
   <WarpMode>Subspace</WarpMode>
   <!--Username of the player who control the warp if WarpMode is set to MASTER-->
   <WarpMaster />

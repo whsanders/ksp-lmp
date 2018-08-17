@@ -1,6 +1,6 @@
 FROM mono:5.14.0
 
-ARG version=0.10.46
+ARG version=0.11.47
 
 RUN apt-get update && \
     apt-get install -y wget unzip && \

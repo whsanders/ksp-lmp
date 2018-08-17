@@ -22,8 +22,6 @@
   <AutoDekessler>0.5</AutoDekessler>
   <!--Specify in minutes how often /nukeksc automatically runs. 0 = Disabled-->
   <AutoNuke>0</AutoNuke>
-  <!--Specify if the vessels that are being CONTROLLED and in a past subspace will be shown for players in future subspaces-->
-  <ShowVesselsInThePast>true</ShowVesselsInThePast>
   <!--Enable use of Cheats in-game.-->
   <Cheats>true</Cheats>
   <!--Allow players to sack kerbals-->
